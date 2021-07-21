@@ -1,0 +1,25 @@
+{
+  "name": "fake-store-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukehampton6/fake-store-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukehampton6/fake-store-backend/issues"
+  },
+  "homepage": "https://github.com/lukehampton6/fake-store-backend#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.5"
+  }
+}
